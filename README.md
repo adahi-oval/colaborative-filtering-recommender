@@ -43,4 +43,4 @@ La salida del programa consiste en un archivo de texto (por defecto *output.txt*
 python3 main.py -pm -f matriz.txt -n 2
 ```
 
-Los argumentos son intercambiables y agrupables según los convenios de estilo POSIX proporcionados en el enunciado.
+Los argumentos son intercambiables y agrupables según los convenios de estilo POSIX proporcionados en el enunciado. 
